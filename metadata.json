@@ -1,0 +1,9 @@
+{
+  "name": "INCTL Cybernetic Sentinel - Cross-Platform ERP & Spatial AI Workstation",
+  "description": "Cross-platform PC (Windows .exe, macOS .dmg, Linux) and WebXR spatial intelligence workstation for INCTL Wash ERP, featuring local data monitoring, privacy vault, web scraping agent, and high-thinking AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
